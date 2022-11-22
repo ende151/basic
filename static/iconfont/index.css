@@ -1,0 +1,103 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3783510 */
+  src: url('static/iconfont/font/iconfont.woff2?t=1669024012195') format('woff2'),
+       url('static/iconfont/font/iconfont.woff?t=1669024012195') format('woff'),
+       url('static/iconfont/font/iconfont.ttf?t=1669024012195') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  /* font-size: 16px; */
+  /* font-style: normal; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-all:before {
+  content: "\e6ef";
+}
+
+.icon-all1:before {
+  content: "\e743";
+}
+
+.icon-calendar:before {
+  content: "\e746";
+}
+
+.icon-company:before {
+  content: "\e748";
+}
+
+.icon-connections:before {
+  content: "\e74a";
+}
+
+.icon-download:before {
+  content: "\e74d";
+}
+
+.icon-folder:before {
+  content: "\e751";
+}
+
+.icon-integral:before {
+  content: "\e754";
+}
+
+.icon-Newuserzone:before {
+  content: "\e759";
+}
+
+.icon-remind:before {
+  content: "\e75f";
+}
+
+.icon-return:before {
+  content: "\e760";
+}
+
+.icon-salescenter:before {
+  content: "\e762";
+}
+
+.icon-seleted:before {
+  content: "\e763";
+}
+
+.icon-service:before {
+  content: "\e764";
+}
+
+.icon-upload:before {
+  content: "\e76b";
+}
+
+.icon-viewgallery:before {
+  content: "\e76c";
+}
+
+.icon-viewlist:before {
+  content: "\e76d";
+}
+
+.icon-set:before {
+  content: "\e76e";
+}
+
+.icon-store:before {
+  content: "\e76f";
+}
+
+.icon-exchangerate:before {
+  content: "\e772";
+}
+
+.icon-xinxibar_zhanghu:before {
+  content: "\e7c8";
+}
+
+.icon-zijin:before {
+  content: "\e7cb";
+}
+
